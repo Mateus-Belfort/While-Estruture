@@ -5,3 +5,5 @@ while (velocidade > 0) {
     velocidade -= 20;
     alert("Diminuindo 20km/h");
 }
+
+alert("O carro parou!");
